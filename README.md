@@ -1,6 +1,8 @@
 # githubfinder
 
 React app to search github users. This is a Part of "Modern React Front To Back" Udemy course by @bradtraversy
+## Netlify Link
+[https://githubfinder-test.netlify.com/](https://githubfinder-test.netlify.com/)
 
 ### `npm install`
 
